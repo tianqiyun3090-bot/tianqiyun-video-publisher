@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/szhshp/panda-video-automations-publisher/main/docs/assets/logo.png" width="200" alt="Panda Video Automation Publisher Logo">
-
   # Panda Video Automation Publisher
 
   **跨平台视频上传自动化引擎**
